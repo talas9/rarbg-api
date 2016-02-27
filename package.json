@@ -1,6 +1,6 @@
 {
   "name": "rarbg-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "rarbg api wrapper",
   "main": "index.js",
   "license": "GPL-3.0",
